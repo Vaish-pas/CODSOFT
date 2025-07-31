@@ -23,7 +23,7 @@ This internship includes multiple practical tasks related to Artificial Intellig
 
 ## 🔗 Connect With Me
 
-- 👩‍💼 [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/parul-sharma-b8929b281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 👩‍💼 [LinkedIn](https://www.linkedin.com/in/parul-sharma-b8929b281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📧 Email: ps308616@gmail.com
 
 ---
