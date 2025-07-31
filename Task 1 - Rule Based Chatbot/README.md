@@ -36,9 +36,8 @@ It responds to user inputs using predefined rules, providing a hands-on understa
 ## 🔗 Connect with Me
 👩‍💻 Parul Sharma  
 📍 AI Intern at CodSoft  
-College: Tecnia Institute of Advanced Studies 
-University: GGSIPU
-🔗 [LinkedIn Profile]
-(https://www.linkedin.com/in/parul-sharma-b8929b281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- College: Tecnia Institute of Advanced Studies 
+- University: GGSIPU
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/parul-sharma-b8929b281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
