@@ -1,7 +1,6 @@
 # Task 1 - Rule-Based Chatbot 🤖
 
-This is Task 1 of my Artificial Intelligence Internship at CodSoft (20 July 2025 - 20 August 2025).
-- Batch: B41
+This is Task 1 of my Artificial Intelligence Internship at CodSoft (July 2025 - August 2025).
 
 # 🧠 Project Title: "Teddy – A Rule-Based Chatbot"
 
