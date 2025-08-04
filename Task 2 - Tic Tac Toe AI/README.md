@@ -51,7 +51,11 @@ The goal was to apply **game theory**, learn about **decision trees**, and imple
 
 ## 🔗 About Me
 👩‍💻 Parul Sharma
-BCA Student | AI Enthusiast | CodSoft AI Intern
+- BCA Student | AI Enthusiast | CodSoft AI Intern 
+- College: Tecnia Institute of Advanced Studies 
+- University: GGSIPU
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/parul-sharma-b8929b281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 
 
