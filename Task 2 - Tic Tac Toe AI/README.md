@@ -44,9 +44,9 @@ The goal was to apply **game theory**, learn about **decision trees**, and imple
 ## 📥 How to Run
 
 1. Make sure you have **Python 3** installed on your system
-2. Download the `tic_tac_toe_ai_parul.py` file from this repository
+2. Download the `tictactoe.py` file from this repository
 3. Open a terminal or any Python IDE and run the following command:
-   python tic_tac_toe_ai_parul.py
+   python `tictactoe.py`
 4. Play the game and try to beat the AI!
 
 ## 🔗 About Me
