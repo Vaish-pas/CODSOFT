@@ -18,6 +18,11 @@ It responds to user inputs using predefined rules, providing a hands-on understa
 
 ---
 
+# Screenshot 
+<img width="1366" height="719" alt="Screenshot (306)" src="https://github.com/user-attachments/assets/2a9a71f4-ffc6-422e-bc64-e337711a974a" />
+
+---
+
 ## 📂 Files Included
 - `chatbot3.py` – The main chatbot application
 - `README.md` – Project explanation
