@@ -44,4 +44,4 @@ It uses:
 
 1. Make sure you have Python 3 installed  
 2. Place `kdrama.csv` and `Data for repository.csv` in the same folder  
-3. Save the code as `rec
+3. Save the code as `recommendation_system.py` and then run. 
