@@ -45,9 +45,5 @@ It uses:
 
 1. Make sure you have Python 3 installed  
 2. Place `kdrama.csv` and `Data for repository.csv` in the same folder  
-3. Save the code as `recommendation_system.py`
-
-Then run:
-
-```bash
+3. Save the code as `recommendation_system.py`bash
 python smarter_recommender.py
