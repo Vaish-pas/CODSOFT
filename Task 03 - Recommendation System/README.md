@@ -4,7 +4,6 @@ This is Task 04 of my **AI Internship at CodSoft**
 🗓️ **Duration:** 20 July – 20 August 2025  
 🧠 **Batch:** B41
 
----
 
 ## 📌 Project Overview
 
@@ -16,7 +15,6 @@ It uses:
 - **Cosine similarity**
 - And boosts accuracy by giving higher weight to both **genre** and **actors** 🎭
 
----
 
 ## 🧠 What I Learned
 
@@ -26,7 +24,6 @@ It uses:
 - Combining multiple feature similarities (genre + actors)
 - Handling multiple datasets and preprocessing them smartly
 
----
 
 ## ⚙️ Technologies Used
 
@@ -34,7 +31,6 @@ It uses:
 - Pandas 📊
 - Scikit-learn 🤖 (TF-IDF + cosine similarity)
 
----
 
 ## 💡 How It Works
 
