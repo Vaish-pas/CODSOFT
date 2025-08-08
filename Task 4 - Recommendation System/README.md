@@ -45,3 +45,11 @@ It uses:
 1. Make sure you have Python 3 installed  
 2. Place `kdrama.csv` and `Data for repository.csv` in the same folder  
 3. Save the code as `recommendation_system.py` and then run. 
+
+
+## 🔗 About Me
+👩‍💻 Parul Sharma
+- BCA Student | AI Enthusiast | CodSoft AI Intern 
+- College: Tecnia Institute of Advanced Studies 
+- University: GGSIPU
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/parul-sharma-b8929b281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
