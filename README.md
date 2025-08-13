@@ -47,7 +47,7 @@ A content-based recommendation engine for **bollywood movies and K-Dramas**, enh
 - Handles case-insensitive and punctuation-insensitive search
 
 📌 **Folder:** `Task 3 - Smarter Recommendation System`  
-🔗 **Description:** [Click here](./Task%203%20-%20Smarter%20Recommendation%20System/README.md)
+🔗 **Description:** [Click here](https://github.com/Vaish-pas/CODSOFT/blob/main/Task%204%20-%20Recommendation%20System/README.md)
 
 
 ## 🛠️ Tech Stack Used
