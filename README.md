@@ -46,7 +46,7 @@ A content-based recommendation engine for **bollywood movies and K-Dramas**, enh
 - Returns genre and number of episodes (for dramas)
 - Handles case-insensitive and punctuation-insensitive search
 
-📌 **Folder:** `Task 3 - Smarter Recommendation System`  
+📌 **Folder:** `Task 3 - Recommendation System`  
 🔗 **Description:** [Click here](https://github.com/Vaish-pas/CODSOFT/blob/main/Task%204%20-%20Recommendation%20System/README.md)
 
 
